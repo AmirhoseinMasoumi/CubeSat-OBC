@@ -8,3 +8,49 @@ The OBC plays several roles in the effective operation of a spacecraft or satell
 - System housekeeping
 - On-board time synchronisation
 - Failure detection, isolation and recovery
+
+### Processor:
+-	STM32F429BI	
+-	32bit
+-	High Performance MCU
+-	Up to 180 MHz
+
+### Operating system:
+-	FreeRTOS
+-	RTXRTOS
+-	Other Real-Time Operating system
+
+### Memory:
+-	64MB Static RAM
+-	1GB NAND Flash Memory for housekeeping data
+-	32GB SD CARD Memory for Payload data
+
+### Interfaces: 
+-	2x CAN 2.0B bus interface up to 1Mbps
+-	2x UART interfaces
+-	3x USART interfaces
+-	2x I2C interfaces
+-	4x SPI 
+-	Hi-Speed USB 2.0
+
+### Physical Characteristics:
+-	1.71 V to 3.6 V power supply
+-	-40 °C to 85/125 °C temperature range
+-	90 x 96 x 26.3 mm 
+-	Less than 100g
+
+---
+
+![Tilted](https://github.com/AmirhoseinMasoumi/CubeSat-OBC/blob/main/Assets/Images/Tilted.png)
+
+---
+
+![Front](https://github.com/AmirhoseinMasoumi/CubeSat-OBC/blob/main/Assets/Images/Front.png)
+
+---
+
+![Back](https://github.com/AmirhoseinMasoumi/CubeSat-OBC/blob/main/Assets/Images/Back.png)
+
+---
+
+![Layers](https://github.com/AmirhoseinMasoumi/CubeSat-OBC/blob/main/Assets/Images/Layers.png)
